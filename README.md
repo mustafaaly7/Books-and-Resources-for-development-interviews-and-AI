@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Developer needed book list
 
 
@@ -30,7 +30,7 @@ _English Books_
   Here's My <a href="https://mustafa-ali-portfolio.vercel.app/" target="_blank">portfolio</a> 
   If you Want To Hire Me for MERN Stack / Web Development Projects
 </h3>
->>>>>>> 3d8b531 ( added 100 plus books)
+
 
 
 # Learning-Resources
